@@ -700,7 +700,7 @@ ${symbol2} ${prefix}delete (msg)`
 @Saipul Anuar (Partner)
 @Yudha (Partner)
 @Arull (Partner)
-@Danzz Coding (Me)
+@Danzz Coding (Partner)
 
 *Penyedia Rest Api*
 https://danzzapi.xyz (danzz)`
@@ -738,7 +738,7 @@ Atau Bahkan Terbanned Dari
 Pihak WhatsApp
 
 You : Scriptnya Beli Dimana?
-Bot : Script nya gratis kok, link: https://github.com/Danzzxcodes/basebot-v1
+Bot : Script nya gratis kok tinggal minta ke owner
 
 You : Boleh Masukin Ke Grup Saia
 Tidak?
@@ -798,8 +798,8 @@ let payment = `
 donate to me so that the bot can develop more.
 
 *e-wallet*
-Dana: 089512545999
-Gopay: 089512545999`
+Dana: 085717497745
+Gopay: 083144670363`
 let buttons = [
                     {buttonId: `rules`, buttonText: {displayText: 'Rules'}, type: 1},
                     {buttonId: `menu`, buttonText: {displayText: 'Menu'}, type: 1},
